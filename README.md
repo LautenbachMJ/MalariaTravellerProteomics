@@ -74,7 +74,7 @@ For access, please see the [Data availability statement](#data-availability).
 
 ### Manuscript figures
 
-All downstream data analysis, visualization and final main and supplementary figures can be found under as a [rendered html report](https://github.com/SundlingLab/Explore1536_Malaria/blob/main/docs/Downstream_analysis_full_4repo.html), and the markdown can be found [here](https://github.com/SundlingLab/Explore1536_Malaria/blob/main/src/Downstream_analysis_full_4repo.Rmd).
+All downstream data analysis, visualization and final main and supplementary figures can be found under as a [rendered html report](https://sundlinglab.github.io/Explore1536_Malaria/docs/Downstream_analysis_full_4repo.html), and the markdown can be found [here](https://github.com/SundlingLab/Explore1536_Malaria/blob/main/src/Downstream_analysis_full_4repo.Rmd).
 
 ## Data availability statement 
 
